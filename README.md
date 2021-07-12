@@ -1,7 +1,13 @@
 ## Google Clone
 
 ### About page
-This page to be a example of use the HTML to estructure a page like google. In this project I use HTML and CSS.
+This page to be a example of use the HTML to estructure a page like google.
+
+### Used knowledge
+- Html 5
+- CSS 3
+- JavaScript
+
 
 ### About creator
 
