@@ -1,7 +1,7 @@
 ## Google Clone
 
 ### About page
-This page to be a example of use the HTML to estructure a page like google.
+This page to be an example of using HTML to structure a page like a google.
 
 ### Used knowledge
 - Html 5
